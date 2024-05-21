@@ -1,0 +1,8 @@
+﻿  LZ77.cpp
+D:\Studia\Projekty\TIK\LZ77\LZ77\LZ77.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
+D:\Studia\Projekty\TIK\LZ77\LZ77\LZ77.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+D:\Studia\Projekty\TIK\LZ77\LZ77\LZ77.cpp(142,32): warning C4244: 'initializing': conversion from 'std::streamsize' to 'int', possible loss of data
+D:\Studia\Projekty\TIK\LZ77\LZ77\LZ77.cpp(190,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Studia\Projekty\TIK\LZ77\LZ77\LZ77.cpp(217,23): warning C4018: '<': signed/unsigned mismatch
+D:\Studia\Projekty\TIK\LZ77\LZ77\LZ77.cpp(224,23): warning C4018: '<': signed/unsigned mismatch
+  LZ77.vcxproj -> D:\Studia\Projekty\TIK\LZ77\Debug\LZ77.exe
